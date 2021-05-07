@@ -1,0 +1,180 @@
+/*ESTILOS PARA EL INDEX*/
+
+/*Estilos para formatear */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Estilos para el body*/
+.styleBody{
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*Estilos para el header*/
+.styleHeader{
+    background-color:steelblue ;
+    width: 90%;
+    padding: 20px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+
+/*Estilos para ul*/
+.styleUl{
+    display: flex;
+
+}
+
+/*Estilos para el li*/
+.styleLi{
+    list-style: none;
+    background-color: whitesmoke;
+    margin: 0 20px 0 20px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    border: 1px solid #000;
+   
+}
+
+/*Estilos para el link */
+.styleLink{
+    text-decoration: none;
+    color: black;
+}
+
+.styleLink:hover{
+
+    color: gold;
+}
+
+/*Estilos para el logo de sena*/
+.logoSena{
+    width: 55px;
+    position: absolute;
+    right: 100px;
+    top: 36px;
+}
+
+/*Estilos para el main*/
+.styleMain{
+    background-color: steelblue;
+    width: 90%;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+/*Estilos para el titulo h1 - Bienvenido*/
+.styleH1{
+    font-size: larger;
+    font-weight: 500;
+    margin: 30px 0 30px 0;
+    position: relative;
+    top: -10px;
+}
+
+/*Estilos para la seccion de contenido*/
+.styleSection{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -25px;
+    
+}
+
+/*Estilos para el contenedor de imgprincipal*/
+.contenedorImgprincipal{
+    background-color: white;
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid gold;
+}
+
+/*Estilos para la imagen principal developer1*/
+.imgPrincipal{
+    width: 100%;
+}
+
+/*Estilos contenedor texto principal*/
+.contenedorTxtprincipal{
+    background-color: white;
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid gold;
+}
+/*Estilos para el texto principal*/
+.Txtprincipal{
+    width: 100%;
+}
+
+/*Estilos para el footer*/
+.styleFooter{
+    background-color: steelblue;
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+/*Estilos para h3 titulo footer h3*/
+.styleH3{
+    font-size: larger;
+    font-weight: 400;
+    
+}
+
+/*Estilos para cuadrar el git hub*/
+.styleGithub{
+    display: flex;
+    align-items: center;
+}
+
+/*Estilos para cuadrar el img git hub*/
+.imgGithub{
+    width: 40px;
+    margin-right: 25px;
+}
+
+/*Estilos para usuario git hub*/
+.styleTxtsmall{
+    font-size: medium;
+    font-weight: 500;
+    
+    
+}
+
+/*---------------////////////////////////-------------------------------*/
+
+/*ESTILOS LINK2 NOMBRE TEMPORAL*/
+
+/*Estilos contenedor texto principal Link  2*/
+.contenedorTxtprincipal2{
+    background-color: white;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid gold;
+}
+
+
